@@ -1,0 +1,38 @@
+Privacy Policy
+
+This Privacy Policy governs the manner in which SecurePass Generator collects, uses, maintains, and discloses information collected from users (each, a "User") of the SecurePass Generator application ("App").
+
+Personal Identification Information
+
+SecurePass Generator does not collect any personal identification information from Users.
+
+Non-Personal Identification Information
+
+SecurePass Generator may collect non-personal identification information about Users whenever they interact with the App. Non-personal identification information may include the browser name, the type of computer or device, and technical information about Users' means of connection to the App, such as the operating system and the Internet service providers utilized.
+
+Web Browser Cookies
+
+The App does not use "cookies" to enhance User experience. Users may choose to set their web browser to refuse cookies or to alert them when cookies are being sent. Note that some parts of the App may not function properly if cookies are disabled.
+
+How We Use Collected Information
+
+SecurePass Generator may collect and use Users' information for the following purposes:
+
+To personalize User experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided in the App.
+To improve the App: We continually strive to improve our offerings based on the information and feedback we receive from Users.
+To send periodic emails: We may use the email address to respond to inquiries, questions, and/or other requests.
+How We Protect Your Information
+
+We adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored in the App.
+
+Changes to This Privacy Policy
+
+SecurePass Generator has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your Acceptance of These Terms
+
+By using this App, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our App. Your continued use of the App following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+Contacting Us
+
+If you have any questions about this Privacy Policy, the practices of this App, or your dealings with this App, please contact me at +233500023026.
